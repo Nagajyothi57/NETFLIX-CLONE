@@ -1,4 +1,5 @@
 NETFLIX-CLONE
+
 As a part of learning to code,I completed a project that involved creating a basic Netflix clone built using HTML,CSS and JavaScript.It utilizes the TMDP API and YouTube Search API to fetch and display movie and TV show data.
 ![1000078054](https://github.com/user-attachments/assets/9b3a929b-3a66-4cfa-9a6c-c5b196d896ab)
 ![1000078055](https://github.com/user-attachments/assets/ac28d461-8e4b-4f14-8452-3733be896773)
